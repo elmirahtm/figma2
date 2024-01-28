@@ -1,12 +1,11 @@
-import Bodylist from '@/components/bodylist'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      
-      < Bodylist/>
-    </div>
+<h1 className='text-center font-bold translate-y-14'>Sign Up Added</h1>
+        </div>
+    
   )
 }
 
